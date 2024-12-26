@@ -42,7 +42,7 @@ class Program
     //Equals method is available and utilizable as intended for structs unlike classes.
     //In addition to that method, operators of "==" and "!=" are available for record structs whereas normal ones throw an error. 
     record struct MyRecordStruct(int X, int Y) //Record Structs supports with keyword usage like in positional records.
-    //Positional structs can't have a constructor as well as positional records can't do
+    //Positional structs can't have a constructor as well as positional records can't do.
     {
         public int Prop1 { get; set; }    
         public int Prop2 { get; set; }
