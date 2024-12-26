@@ -1,0 +1,14 @@
+/Users/orkhanrahimli/RiderProjects/CPPPPOOP37/bin/Debug/net8.0/CPPPPOOP37
+/Users/orkhanrahimli/RiderProjects/CPPPPOOP37/bin/Debug/net8.0/CPPPPOOP37.deps.json
+/Users/orkhanrahimli/RiderProjects/CPPPPOOP37/bin/Debug/net8.0/CPPPPOOP37.runtimeconfig.json
+/Users/orkhanrahimli/RiderProjects/CPPPPOOP37/bin/Debug/net8.0/CPPPPOOP37.dll
+/Users/orkhanrahimli/RiderProjects/CPPPPOOP37/bin/Debug/net8.0/CPPPPOOP37.pdb
+/Users/orkhanrahimli/RiderProjects/CPPPPOOP37/obj/Debug/net8.0/CPPPPOOP37.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orkhanrahimli/RiderProjects/CPPPPOOP37/obj/Debug/net8.0/CPPPPOOP37.AssemblyInfoInputs.cache
+/Users/orkhanrahimli/RiderProjects/CPPPPOOP37/obj/Debug/net8.0/CPPPPOOP37.AssemblyInfo.cs
+/Users/orkhanrahimli/RiderProjects/CPPPPOOP37/obj/Debug/net8.0/CPPPPOOP37.csproj.CoreCompileInputs.cache
+/Users/orkhanrahimli/RiderProjects/CPPPPOOP37/obj/Debug/net8.0/CPPPPOOP37.dll
+/Users/orkhanrahimli/RiderProjects/CPPPPOOP37/obj/Debug/net8.0/refint/CPPPPOOP37.dll
+/Users/orkhanrahimli/RiderProjects/CPPPPOOP37/obj/Debug/net8.0/CPPPPOOP37.pdb
+/Users/orkhanrahimli/RiderProjects/CPPPPOOP37/obj/Debug/net8.0/CPPPPOOP37.genruntimeconfig.cache
+/Users/orkhanrahimli/RiderProjects/CPPPPOOP37/obj/Debug/net8.0/ref/CPPPPOOP37.dll

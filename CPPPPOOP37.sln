@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPPPPOOP37", "CPPPPOOP37.csproj", "{5DBDBD23-B6A4-4F14-88F3-F9C74DAE5177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DBDBD23-B6A4-4F14-88F3-F9C74DAE5177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBDBD23-B6A4-4F14-88F3-F9C74DAE5177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBDBD23-B6A4-4F14-88F3-F9C74DAE5177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBDBD23-B6A4-4F14-88F3-F9C74DAE5177}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
